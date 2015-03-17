@@ -1,0 +1,21 @@
+{
+  "name": "mg-with-extensions",
+  "version": "0.0.0",
+  "authors": [
+    "Dan de Havilland <dan@dandehavilland.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "metrics-graphics": "dandehavilland/metrics-graphics#hooks",
+    "mg-line-brushing": "dandehavilland/mg-line-brushing",
+    "mg-color-scale": "dandehavilland/mg-color-scale"
+  }
+}
