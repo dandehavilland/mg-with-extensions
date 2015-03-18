@@ -1,0 +1,51 @@
+{
+  "name": "mg-line-brushing",
+  "authors": [
+    "Dan de Havilland <dan@dandehavilland.com>"
+  ],
+  "description": "A step-wise brushing extension for line charts.",
+  "keywords": [
+    "metrics-graphics",
+    "extension",
+    "brushing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    "dev",
+    "gulp",
+    "gulpfile.js",
+    "index.js",
+    "node_modules",
+    "package.json",
+    "src",
+    "testem.json",
+    "tests",
+    "**/.*",
+    "bower_components",
+    "test"
+  ],
+  "devDependencies": {
+    "metrics-graphics": "git://github.com/dandehavilland/metrics-graphics.git#hooks",
+    "qunit": "~1.17.1",
+    "font-awesome": "~4.3.0",
+    "bootstrap": "~3.3.2",
+    "ace-builds": "~1.1.8"
+  },
+  "homepage": "https://github.com/dandehavilland/mg-line-brushing",
+  "main": "dist/mg_line_brushing.js",
+  "moduleType": [
+    "globals"
+  ],
+  "_release": "276e5e2576",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "276e5e25762b59517bb24a39087c596f59f53e30"
+  },
+  "_source": "git://github.com/dandehavilland/mg-line-brushing.git",
+  "_target": "*",
+  "_originalSource": "dandehavilland/mg-line-brushing"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "metrics-graphics",
+  "main": [
+    "dist/metricsgraphics.js",
+    "dist/metricsgraphics.css"
+  ],
+  "dependencies": {
+    "jquery": ">=1.11.1",
+    "d3": ">=3.4.8"
+  },
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    "examples",
+    "gulp",
+    "gulpfile.js",
+    "index.js",
+    "node_modules",
+    "package.json",
+    "src",
+    "testem.json",
+    "tests"
+  ],
+  "license": "MPL-2.0",
+  "authors": [
+    "Ali Almossawi",
+    "Ali Almossawi (http://twitter.com/alialmossawi)>",
+    "Hamilton Ulmer",
+    "Hamilton Ulmer (http://twitter.com/hamiltonulmer)>"
+  ],
+  "homepage": "http://metricsgraphicsjs.org",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mozilla/metrics-graphics.git"
+  },
+  "keywords": [
+    "metrics-graphics",
+    "metricsgraphicsjs",
+    "metricsgraphics",
+    "metricsgraphics.js",
+    "d3 charts"
+  ],
+  "_release": "42a911e644",
+  "_resolution": {
+    "type": "branch",
+    "branch": "hooks",
+    "commit": "42a911e644dad9f6d843c2ded51c93bff7ad3e8f"
+  },
+  "_source": "git://github.com/dandehavilland/metrics-graphics.git",
+  "_target": "hooks",
+  "_originalSource": "dandehavilland/metrics-graphics"
+}

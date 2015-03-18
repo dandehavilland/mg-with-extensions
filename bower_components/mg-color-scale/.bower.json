@@ -1,0 +1,47 @@
+{
+  "name": "mg-color-scale",
+  "authors": [
+    "Dan de Havilland <dan@dandehavilland.com>"
+  ],
+  "description": "A color-scale addon for metrics-graphics.",
+  "keywords": [
+    "metrics-graphics",
+    "extension"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    "dev",
+    "gulp",
+    "gulpfile.js",
+    "index.js",
+    "node_modules",
+    "package.json",
+    "src",
+    "testem.json",
+    "tests"
+  ],
+  "devDependencies": {
+    "metrics-graphics": "git://github.com/dandehavilland/metrics-graphics.git#hooks",
+    "qunit": "~1.17.1",
+    "font-awesome": "~4.3.0",
+    "bootstrap": "~3.3.2",
+    "ace-builds": "~1.1.8",
+    "jquery": "~2.1.3"
+  },
+  "dependencies": {
+    "jss": "*"
+  },
+  "homepage": "https://github.com/dandehavilland/mg-color-scale",
+  "_release": "433d95d275",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "433d95d2751abad82cbf247d9c6d15cb958ad0f5"
+  },
+  "_source": "git://github.com/dandehavilland/mg-color-scale.git",
+  "_target": "*",
+  "_originalSource": "dandehavilland/mg-color-scale"
+}
