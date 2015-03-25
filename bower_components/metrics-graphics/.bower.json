@@ -41,11 +41,11 @@
     "metricsgraphics.js",
     "d3 charts"
   ],
-  "_release": "42a911e644",
+  "_release": "a4d3ff8cea",
   "_resolution": {
     "type": "branch",
     "branch": "hooks",
-    "commit": "42a911e644dad9f6d843c2ded51c93bff7ad3e8f"
+    "commit": "a4d3ff8cea8562ffffd2ed7359c7b8ff2bbe7389"
   },
   "_source": "git://github.com/dandehavilland/metrics-graphics.git",
   "_target": "hooks",
