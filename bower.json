@@ -15,7 +15,7 @@
   ],
   "dependencies": {
     "metrics-graphics": "dandehavilland/metrics-graphics#hooks",
-    "mg-line-brushing": "dandehavilland/mg-line-brushing",
-    "mg-color-scale": "dandehavilland/mg-color-scale"
+    "mg-line-brushing": "dandehavilland/mg-line-brushing#v0.0.2",
+    "mg-color-scale": "dandehavilland/mg-color-scale#v0.0.2"
   }
 }

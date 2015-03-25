@@ -16,6 +16,10 @@
     <link rel="stylesheet" href="bower_components/mg-line-brushing/dist/mg_line_brushing.css" type="text/css" charset="utf-8" />
 
     <style type="text/css" media="screen">
+      body {
+        font-family: Helvetica;
+      }
+
       #chart {
         width: 700px;
       }
@@ -1489,6 +1493,8 @@
         title: 'Multi-line chart',
         target: '#chart',
         data: data,
+        // enable the color scale addon
+        use_color_scale: true,
         full_width: true,
         missing_is_hidden: true,
         y_accessor: 'value',

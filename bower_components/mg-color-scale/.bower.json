@@ -1,5 +1,6 @@
 {
   "name": "mg-color-scale",
+  "version": "0.0.2",
   "authors": [
     "Dan de Havilland <dan@dandehavilland.com>"
   ],
@@ -21,7 +22,8 @@
     "package.json",
     "src",
     "testem.json",
-    "tests"
+    "tests",
+    "README.md"
   ],
   "devDependencies": {
     "metrics-graphics": "git://github.com/dandehavilland/metrics-graphics.git#hooks",
@@ -35,13 +37,13 @@
     "jss": "*"
   },
   "homepage": "https://github.com/dandehavilland/mg-color-scale",
-  "_release": "433d95d275",
+  "_release": "0.0.2",
   "_resolution": {
-    "type": "branch",
-    "branch": "master",
-    "commit": "433d95d2751abad82cbf247d9c6d15cb958ad0f5"
+    "type": "version",
+    "tag": "v0.0.2",
+    "commit": "407b6dd72774321390b905f49d29321327aecb0f"
   },
   "_source": "git://github.com/dandehavilland/mg-color-scale.git",
-  "_target": "*",
+  "_target": "v0.0.2",
   "_originalSource": "dandehavilland/mg-color-scale"
 }
